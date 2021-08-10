@@ -1,0 +1,3 @@
+Read Module5 notes,1
+Create and test Python script,2
+Create Module5 document,3
